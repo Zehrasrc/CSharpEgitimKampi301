@@ -1,22 +1,22 @@
 # 💫C# EĞİTİM KAMPI💫
 Bu proje sayesinde katmanlı mimari kullanımı ve yazılım geliştirme süreçlerinde birçok önemli konuyu öğrendim. İşte bu süreçte kazandığım başlıca bilgiler:
 
-1. DataAccessLayer (Veri Erişim Katmanı) 🗄️
+1. DataAccessLayer (Veri Erişim Katmanı) 
 
 🛠️ Entity Framework kullanarak veri tabanına bağlanmayı ve veri işlemlerini yönetmeyi öğrendim.
 📋 CRUD işlemleri (Create, Read, Update, Delete) ve LINQ sorguları ile veri manipülasyonu yapmayı deneyimledim.
 
-2. EntityLayer (Varlık Katmanı) 📦
+2. EntityLayer (Varlık Katmanı) 
 
 📂 Veri tabanındaki tablolarla birebir eşleşen Entity Class'ları oluşturmayı ve veri modelleri tanımlamayı öğrendim.
 🛡️ Verilerin yapılandırılmış ve düzenli bir şekilde işlenmesini sağlama tekniklerini keşfettim.
 
-3. EFProject (Entity Framework Projesi) ⚙️
+3. EFProject (Entity Framework Projesi) ⚙
 
 🗂️ Migration işlemleri ile veri tabanı güncellemelerini ve yapılandırmalarını nasıl yöneteceğimi öğrendim.
 🔍 LINQ sorgularını kullanarak veriler üzerinde güçlü filtreleme ve analiz yapmayı deneyimledim.
 
-4. PresentationLayer (Sunum Katmanı) 🖥️
+4. PresentationLayer (Sunum Katmanı) 
 
 🎨 Windows Forms kullanarak kullanıcı dostu arayüzler geliştirdim.
 👤 Kullanıcı girişlerini işleyerek veri tabanına aktarma ve sorgu sonuçlarını görselleştirme konularında pratik yaptım.
